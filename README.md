@@ -20,6 +20,9 @@
 
 We are proud to share our research findings in a published paper titled "Scaling Depression Level Through Facial Image Processing and Social Media Analysis." You can access the complete paper [here](https://link.springer.com/chapter/10.1007/978-981-16-1089-9_71).
 
+### Frontend Github Repo
+[ProjectX](https://github.com/aksharbhayani/ProjectX)
+
 ## Acknowledgments:
 
 We extend our gratitude to the academic community for their support and recognition of our research efforts. This project represents a significant step forward in leveraging technology to address mental health concerns.
